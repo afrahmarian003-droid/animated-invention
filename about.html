@@ -1,1 +1,57 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>About — My Writing</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="wrap header">
+    <div>
+      <h1 class="site-title"><a class="plain" href="index.html">My Writing</a></h1>
+      <p class="site-subtitle">An archive of entries.</p>
+    </div>
+    <nav class="nav">
+      <a href="index.html">Entries</a>
+      <a class="active" href="about.html">About</a>
+    </nav>
+  </header>
+
+  <main class="wrap">
+    <article class="card entry-content">
+      <h2>About</h2>
+
+      <p>This space is a quiet place for our words.</p>
+
+      <p>
+        We’re part of a creative writing club, and this blog exists as a home for the things we write...
+        poems, short reflections, little slivers of thought, and pieces that start life in a physical journal
+        before finding their way here.
+      </p>
+
+      <p>
+        Some entries are recent. Some were written months, possibly even years ago, and shared later.
+        Posts appear when they were written, not when they were uploaded.
+      </p>
+
+      <p>If you’re reading this, thank you for taking the time to sit with our work.</p>
+
+      <p>
+        Love,<br>
+        Marian, Gloria, Zeynep, Ian, Julian, and Tristan<br>
+        &lt;3
+      </p>
+    </article>
+  </main>
+
+  <footer class="footer wrap">
+    <small>© <span id="year"></span> My Writing</small>
+  </footer>
+
+  <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
 
