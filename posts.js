@@ -4,25 +4,6 @@
 
 const posts = [
   {
-    id: "about",
-    title: "About",
-    written: "2026-01-14",
-    tags: ["about"],
-    excerpt: "A quiet place for our words.",
-    body: `This space is a quiet place for our words.
-
-We’re part of a creative writing club, and this blog exists as a home for the things we write... poems, short reflections, little slivers of thought, and pieces that start life in a physical journal before finding their way here.
-
-Some entries are recent. Some were written months, possibly even years ago, and shared later. Posts appear when they were written, not when they were uploaded.
-
-If you’re reading this, thank you for taking the time to sit with our work.
-
-Love,
-Marian, Gloria, Zeynep, Ian, Julian, and Tristan
-<3`
-  },
-
-  {
     id: "the-years-that-went-missing",
     title: "The Years That Went Missing - Marian Afrah",
     written: "2025-12-31",
