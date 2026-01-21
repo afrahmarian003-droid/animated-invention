@@ -6,16 +6,10 @@ const posts = [
   {
     id: "about",
     title: "About",
-    written: "2026-01-21",
+    written: "2026-01-01",
     tags: ["about"],
-    excerpt: "A small place for poems, fragments, and journal entries.",
-    body:
-{
-  id: "about",
-  title: "About",
-  written: "2026-01-01",
-  excerpt: "A quiet place for our words.",
-  body: `This space is a quiet place for our words.
+    excerpt: "A quiet place for our words.",
+    body: `This space is a quiet place for my words.
 
 We’re part of a creative writing club, and this blog exists as a home for the things we write — poems, short reflections, little slivers of thought, and pieces that start life in a physical journal before finding their way here.
 
@@ -26,39 +20,15 @@ If you’re reading this, thank you for taking the time to sit with our work.
 Love,
 Marian, Gloria, Zeynep, Ian, Julian, and Tristan
 <3`
-},
-  {
-    id: "first-entry",
-    title: "First Entry",
-    written: "2025-12-05",
-    tags: ["reflection", "journal"],
-    excerpt: "A small beginning — the kind that doesn’t shout.",
-    body:
-`This is a sample entry.
-
-Write your post in paragraphs, leaving a blank line between each one.
-
-You can backdate entries by changing the "written" date in posts.js.`
   },
 
   {
-    id: "club-notes",
-    title: "Creative Writing Club Notes",
-    written: "2026-01-10",
-    tags: ["club", "notes"],
-    excerpt: "Little things I’m learning about writing.",
-    body:
-`Sometimes the best line in the whole piece is the one you almost delete.
-
-Sometimes the draft is the point.`
-  }
-];
-{
-  id: "the-years-that-went-missing",
-  title: "The Years That Went Missing",
-  written: "2025-12-31",
-  excerpt: "On grief, memory loss, and the years my mind refused to archive.",
-  body: `There are entire years of my life I cannot access without physical proof.
+    id: "the-years-that-went-missing",
+    title: "The Years That Went Missing",
+    written: "2025-12-31",
+    tags: ["reflection", "grief", "memory", "journal"],
+    excerpt: "On grief, memory loss, and the years my mind refused to archive.",
+    body: `There are entire years of my life I cannot access without physical proof.
 
 From around 2021 to 2023, my memory didn’t so much fade as it caved in on itself. When people ask what I was doing then, who I was seeing, how I felt… I reach for answers the way you reach for a light switch in a room you know is familiar, only to find there’s nothing there. No light switch. Just the outline of things that must have existed.
 
@@ -96,13 +66,15 @@ Memory is not a moral trait. Forgetting doesn’t mean you didn’t care enough.
 Those missing years weren’t empty. They were heavy. They were full of life, and love, and laughter —
 
 even if I can only remember when I’m reminded.`
-},
-{
-  id: "a-graveyard-of-stars",
-  title: "A Graveyard of Stars",
-  written: "2026-01-07",
-  excerpt: "On light pollution, lost wonder, and the parts of ourselves we dim to survive.",
-  body: `The sky is so tragically beautiful. A graveyard of stars.
+  },
+
+  {
+    id: "a-graveyard-of-stars",
+    title: "A Graveyard of Stars",
+    written: "2026-01-07",
+    tags: ["reflection", "journal", "light-pollution"],
+    excerpt: "On light pollution, lost wonder, and the parts of ourselves we dim to survive.",
+    body: `The sky is so tragically beautiful. A graveyard of stars.
 
 There’s something tragic about our solar system.
 
@@ -148,5 +120,6 @@ Instead of adding more armour, we remove it. We turn the lights off. We sit with
 
 The sky didn’t ruin itself.
 
-And if we’re honest — neither did we.`
-},
+And if we’re honest... neither did we.`
+  }
+];
