@@ -24,7 +24,7 @@ Marian, Gloria, Zeynep, Ian, Julian, and Tristan
 
   {
     id: "the-years-that-went-missing",
-    title: "The Years That Went Missing",
+    title: "The Years That Went Missing - Marian Afrah",
     written: "2025-12-31",
     tags: ["reflection", "grief", "memory", "journal"],
     excerpt: "On grief, memory loss, and the years my mind refused to archive.",
@@ -70,7 +70,7 @@ Even if I can only remember when I’m reminded.`
 
   {
     id: "a-graveyard-of-stars",
-    title: "A Graveyard of Stars",
+    title: "A Graveyard of Stars- Marian Afrah",
     written: "2026-01-07",
     tags: ["reflection", "journal", "light-pollution"],
     excerpt: "light pollution, lost wonder, and the parts of ourselves we dim to fit in.",
