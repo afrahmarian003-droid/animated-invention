@@ -1,1 +1,11 @@
+body{
+  font-family: system-ui, sans-serif;
+  background:#0f1115;
+  color:#e9ecf1;
+  margin:0;
+}
+a{color:#c9d4ff;text-decoration:none}
+.wrap{max-width:800px;margin:auto;padding:20px}
+.card{background:#141823;padding:20px;border-radius:12px}
+.muted{color:#aab3c2}
 
