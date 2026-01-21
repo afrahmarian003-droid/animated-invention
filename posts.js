@@ -15,7 +15,7 @@ const posts = [
   title: "About",
   written: "2026-01-01",
   excerpt: "A quiet place for our words.",
-  body: `This space is a quiet place for my words.
+  body: `This space is a quiet place for our words.
 
 We’re part of a creative writing club, and this blog exists as a home for the things we write — poems, short reflections, little slivers of thought, and pieces that start life in a physical journal before finding their way here.
 
@@ -27,8 +27,6 @@ Love,
 Marian, Gloria, Zeynep, Ian, Julian, and Tristan
 <3`
 },
-  },
-
   {
     id: "first-entry",
     title: "First Entry",
