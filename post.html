@@ -45,7 +45,7 @@
     </article>
 
     <footer class="footer">
-      <small>© <span id="year"></span> My Writing</small>
+      <small>© <span id="year"></span> An archive of entries.</small>
     </footer>
   </main>
 
@@ -75,7 +75,7 @@
       titleEl.textContent = "Entry not found";
       contentEl.innerHTML = `<p class="muted">That entry doesn’t exist yet.</p>`;
     } else {
-      document.title = post.title + " — My Writing";
+      document.title = post.title + " — An archive of entries.";
       titleEl.textContent = post.title;
       dateEl.textContent = new Date(post.written).toLocaleDateString("en-GB", { day:"2-digit", month:"long", year:"numeric" });
       tagsEl.innerHTML = (post.tags||[]).map(t => `<span class="tag">${escapeHtml(t)}</span>`).join("");
