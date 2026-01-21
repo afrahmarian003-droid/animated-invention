@@ -1,31 +1,50 @@
-<!doctype html>
-<html lang="en-GB">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Adding an Entry</title>
-  <link rel="stylesheet" href="styles.css" />
-</head>
-<body>
-  <header class="wrap header">
-    <div>
-      <h1 class="site-title">
-        <a class="plain" href="index.html">An archive of entries.</a>
-      </h1>
-      <p class="site-subtitle">A quick reference for adding new entries.</p>
-    </div>
+<article class="card entry-content">
+  <h2>Adding an Entry</h2>
 
-    <nav class="nav">
-      <a href="index.html">Entries</a>
-      <a href="about.html">About</a>
-      <a class="active" href="adding-an-entry.html">Adding an Entry</a>
-    </nav>
-  </header>
+  <p>
+    All writing on this site lives in a single file:
+    <strong>posts.js</strong>.
+  </p>
 
-  <main class="wrap">
-    <article class="card entry-content">
-      <h2>Adding an Entry</h2>
+  <p>To add a new entry:</p>
 
-      <p>
-        All writing on this site lives in a single file:
-        <strong>posts.js</strong>.
+  <ol>
+    <li>Open <strong>posts.js</strong></li>
+    <li>Scroll to the bottom of the <code>posts</code> array</li>
+    <li>Paste the template below</li>
+    <li>Fill it in</li>
+    <li>Commit the changes</li>
+  </ol>
+
+  <h3>Entry Template</h3>
+
+  <pre><code>{
+  id: "unique-id-here",
+  title: "Title of the piece",
+  written: "YYYY-MM-DD",
+  tags: ["optional", "tags"],
+  excerpt: "A short one-line summary.",
+  body: `
+Write your entry here.
+
+Leave a blank line between paragraphs.
+`
+},</code></pre>
+
+  <h3>Important Notes</h3>
+
+  <ul>
+    <li><strong>Written date</strong> controls sorting order</li>
+    <li>Posts appear by when they were written, not uploaded</li>
+    <li>Each <code>id</code> must be unique</li>
+    <li>Do not remove commas between entries</li>
+  </ul>
+
+  <p>If something breaks, check for:</p>
+
+  <ul>
+    <li>Missing commas</li>
+    <li>Duplicate IDs</li>
+    <li>Missing backticks (<code>`</code>)</li>
+  </ul>
+</article>
