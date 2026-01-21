@@ -10,15 +10,23 @@ const posts = [
     tags: ["about"],
     excerpt: "A small place for poems, fragments, and journal entries.",
     body:
-`This space is a quiet place for my words.
+{
+  id: "about",
+  title: "About",
+  written: "2026-01-01",
+  excerpt: "A quiet place for our words.",
+  body: `This space is a quiet place for my words.
 
-I’m part of a creative writing club, and this blog exists as a home for the things I write — poems, short reflections, fragments of thought, and pieces that start life in a physical journal before finding their way here.
+We’re part of a creative writing club, and this blog exists as a home for the things we write — poems, short reflections, little slivers of thought, and pieces that start life in a physical journal before finding their way here.
 
-Some entries are recent. Some are written months or years ago and shared later. Posts appear when they were written, not when they were uploaded.
+Some entries are recent. Some were written months, possibly even years ago, and shared later. Posts appear when they were written, not when they were uploaded.
 
-If you’re reading this, thank you for taking the time to sit with my work.
+If you’re reading this, thank you for taking the time to sit with our work.
 
-— Marian`
+Love,
+Marian, Gloria, Zeynep, Ian, Julian, and Tristan
+<3`
+},
   },
 
   {
