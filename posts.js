@@ -8,7 +8,7 @@ const posts = [
     title: "The Years That Went Missing - Marian Afrah",
     written: "2025-12-31",
     tags: ["reflection", "grief", "memory", "journal"],
-    excerpt: "On grief, memory loss, and the years my mind refused to archive.",
+    excerpt: "grief, memory loss, and years that my mind refused to archive.",
     body: `There are entire years of my life I cannot access without physical proof.
 
 From around 2021 to 2023, my memory didn’t so much fade as it caved in on itself. When people ask what I was doing then, who I was seeing, how I felt… I reach for answers the way you reach for a light switch in a room you know is familiar, only to find there’s nothing there. No light switch. Just the outline of things that must have existed.
