@@ -9,44 +9,45 @@ const posts = [
     written: "2025-12-31",
     tags: ["reflection", "grief", "memory", "journal"],
     excerpt: "grief, memory loss, and years that my mind refused to archive.",
-    body: `There are entire years of my life I cannot access without physical proof.
+    body: `There are entire years of my life I can’t seem to access without physical proof.
 
-From around 2021 to 2023, my memory didn’t so much fade as it caved in on itself. When people ask what I was doing then, who I was seeing, how I felt… I reach for answers the way you reach for a light switch in a room you know is familiar, only to find there’s nothing there. No light switch. Just the outline of things that must have existed.
+From around 2021 to 2023, my memory didn’t so much fade as it totally caved in on itself. When people ask what I was doing then, who I was seeing, or how I felt… I’d reach for answers the same way you’d reach for a light switch in a room you know is familiar, only to find there’s nothing there. No light switch. Just an outline of things that must have existed. 
 
-This isn’t forgetfulness in its usual sense. It’s not misplacing your house keys or forgetting your neighbour’s name. It’s the absence of character and texture. No order. No emotional progression. Time happened... clearly. My body aged, my phone filled up, my life moved forward, but my mind refused to archive it.
+This isn’t forgetfulness in its usual sense. It isn’t misplacing your house keys or forgetting your neighbours name. It’s an absence of character and texture. No order. No emotional progression. Time happened, i mean, clearly… my body aged, my phone filled up, my life moved forward, but my mind refused to archive any of it.
 
 Grief did that.
 
-We talk about grief as sadness, longing, pain. We don’t talk enough about how it erases. How it quietly interferes with the brain’s ability to encode experience. How it says “survival first, memory later… or never”.
+Grief is always spoken about as this sort of sadness, as a longing, as pain. We don’t talk enough about how it erases. How it quietly interferes with the brain’s ability to encode an experience. And how it says “survival first, memory later… or never”.
 
-During those years, I functioned. I worked, spoke, laughed at socially acceptable moments. I was perceived as “coping”, which is often code for “not making anyone uncomfortable”. But internally, something had completely shut down. My mind stopped filing important moments away because it didn’t trust the future enough to believe they’d ever be needed.
+During those years, I had functioned, worked, spoke, and laughed at socially acceptable moments. I was perceived by those around me to be “coping”, which is often code for “not making anyone uncomfortable”. But internally, something had shut down. My mind stopped filing important moments away because it didn’t trust the future enough to believe they’d ever be needed.
 
 Memory needs safety. Grief annihilates that.
 
-When your nervous system is overwhelmed, the brain prioritises endurance and capability. It narrows your focus to what you need. It dulls sensation. Days blur. Months fold into each other. It’s not that nothing happened, it’s that my mind decided it wasn’t important enough to keep.
+When your nervous system is overwhelmed, the brain prioritises endurance and capability. It narrows your focus to the things you need. It dulls sensation. Is this why people who go through traumatic experiences often describe a similar thing? a blur. Days that fold and intertwine within each other. Months that feel like one long, tedious afternoon. It’s not that nothing happened, it’s that my mind decided it wasn’t important enough to remember.
 
-I know those years existed because of artefacts.
+I know that those years existed because of artefacts.
 
-A photo jolts something loose. A video reanimates a version of myself I don’t remember inhabiting. Sometimes it feels less like nostalgia and more like discovery.
-
-“Oh. I was there.
+A photo snaps something in me loose. A video reanimates this version of myself I don’t seem to remember inhabiting. Sometimes I’ll watch myself speaking, smiling, singing, or standing in a place I don’t recognise and it feels less like nostalgia and moreso like discovery. “Oh. I was there.
 I had a body then too.”
 
-Without these physical keepsakes, those years may as well dissolve entirely. My memory now relies on external storage... camera rolls, messages, timestamps.
+Without these physical artefacts, those years may as well dissolve entirely. My memory now relies on external storage: camera rolls, messages, timestamps. Proof that I lived days I can’t internally recover.
 
-It’s unsettling, realising your own mind can’t be trusted as an archive.
+It’s quite unsettling in all honesty, realising that your own mind can’t be trusted as an archive.
 
-But it’s also tender.
+But it’s also strangely tender in and of itself.
 
-Because forgetting wasn’t failure, it was protection. My brain chose survival over total collapse.
+Because what if the memory loss isn’t failure… it’s protection. My brain isn’t broken. It was doing its job far too well. It had known that holding onto everything would have completely annihilated me, so it had to let some details go. It kept only what was essential… how to breathe, how to get through the day, how not to collapse and completely fall apart. 
 
-There is grief in the forgetting itself. A secondary loss. I mourn the version of me who lived those years consciously.
+In that sense, forgetting was an act of mercy to my own self. 
 
-Memory is not a moral trait. Forgetting doesn’t mean you didn’t care enough. Sometimes it means you cared so deeply that your mind chose endurance.
+There’s grief in the forgetting itself, of course. A sort of secondary loss. I do mourn the version of me who lived those years consciously, who might have remembered conversations, mornings, everyday joys. There are friendships and moments I know mattered that now exist only as faint impressions left on my brain.
 
-Those missing years weren’t empty. They were heavy. They were full of life, and love, and laughter.
+Grief scrambled my sense of time. I don’t expect my memories to obey it.
+Memory is not a moral trait. Forgetting doesn’t mean you didn’t care enough, love enough, try hard enough. Sometimes it means you cared so deeply that your mind chose survival over the possibility of being hurt the same way again.
 
-Even if I can only remember when I’m reminded.`
+Those missing years weren’t empty. They were heavy. They were full of life, and love, and laughter
+
+Even if I can only remember when reminded.`
   },
 
   {
