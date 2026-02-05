@@ -106,7 +106,7 @@ And if we’re honest... neither did we.`
 },
 
   {
-     id: "moving-forward",
+    id: "moving-forward",
     title: "Moving forward- Ian Barrington",
     written: "2026-02-05",
     tags: ["motivation", "poem", "progression"],
