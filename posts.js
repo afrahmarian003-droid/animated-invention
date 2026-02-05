@@ -135,4 +135,4 @@ I am here to help,
 to lift, to listen,
 to remind others
 we are more than what tried to stop us.`
-  ],
+  },
