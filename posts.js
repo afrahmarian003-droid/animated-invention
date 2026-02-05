@@ -107,10 +107,10 @@ And if we’re honest... neither did we.`
 
   {
     id: "moving-forward",
-    title: "Moving forward- Ian Barrington",
+    title: "Moving forward - Ian Barrington",
     written: "2026-02-05",
     tags: ["motivation", "poem", "progression"],
-    excerpt: "moving forward with strength, honesty, and purpose.",
+    excerpt: "Moving forward with strength, honesty, and purpose.",
     body: `I move on wheels,
 but I’m going forward,
 learning, growing,
@@ -135,4 +135,5 @@ I am here to help,
 to lift, to listen,
 to remind others
 we are more than what tried to stop us.`
+  }
 ];
