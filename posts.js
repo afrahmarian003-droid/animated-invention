@@ -137,8 +137,6 @@ to remind others
 we are more than what tried to stop us.`
 },
 
-{,
-
   {
     id: "moving-forward",
     title: "Moving forward - Ian Barrington",
