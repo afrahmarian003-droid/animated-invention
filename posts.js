@@ -135,5 +135,33 @@ I am here to help,
 to lift, to listen,
 to remind others
 we are more than what tried to stop us.`
-  }
+},
+
+{,
+
+{
+  id: "i-try-to-do-but-i-couldnt",
+  title: "I try to do but I couldn’t - Glory",
+  written: "2026-02-10",
+  tags: ["reflection", "journal"],
+  excerpt: "An attempt, a pause, and the weight of what couldn’t be said.",
+  body: `Mi abuela olvidó los nombres,
+pero no olvidó la espera.
+Se le borraron los días,
+pero no el “ya vuelve”.
+
+Mi abuelo murió
+y ella se quedó en la puerta,
+con la memoria hecha humo
+y el corazón intacto.
+
+Un año lo buscó en la tarde,
+en la silla, en la mesa,
+en el ruido de la calle.
+
+One year later she passed away…
+yo digo:
+un año después,
+por fin se lo encontró.`
+
 ];
