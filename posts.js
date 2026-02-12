@@ -138,38 +138,6 @@ we are more than what tried to stop us.`
 },
 
   {
-    id: "moving-forward",
-    title: "Moving forward - Ian Barrington",
-    written: "2026-02-05",
-    tags: ["motivation", "poem", "progression"],
-    excerpt: "Moving forward with strength, honesty, and purpose.",
-    body: `I move on wheels,
-but I’m going forward,
-learning, growing,
-finding my place at university halls and quiet nights.
-
-My chair tells a story,
-not of limits,
-but of strength that learned new ways
-to rise every day.
-
-I share my journey openly,
-for anyone who feels tired,
-lost, or unsure
-hoping my words become a hand to hold.
-
-I give my time, my care, my truth,
-to those who see me clearly,
-not for what I lack,
-but for what I offer freely.
-
-I am here to help,
-to lift, to listen,
-to remind others
-we are more than what tried to stop us.`
-  },
-
-  {
     id: "i-try-to-do-but-i-couldnt",
     title: "I try to do but I couldn’t - Glory",
     written: "2026-02-10",
