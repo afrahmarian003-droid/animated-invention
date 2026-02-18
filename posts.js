@@ -161,5 +161,34 @@ One year later she passed away…
 yo digo:
 un año después,
 por fin se lo encontró.`
-  }
+  },
+  
+ {
+  id: "micro-moments-of-meaning",
+  title: "Micro Moments of Meaning - Marian Afrah",
+  written: "2026-02-18",
+  tags: ["reflection", "journal", "observation", "connection"],
+  excerpt: "tiny, near-invisible moments where meaning silently lives.",
+  body: `I think I pay attention to the most random things.
+
+Like the way someone’s nose flares when they talk about music that they love.. barely noticeable, unless you’re looking for it.
+
+Or how certain afternoons linger in your mind for no specific reason,
+like taking out my bright pink Pusheen lunchbox… something you’d expect to feel embarrassing, but didn’t.
+
+It’s odd not feeling judged for things you thought you would be, especially in hindsight.
+
+What lingers isn’t the music itself, especially when you don’t understand the words, 
+but the way it’s shared, 
+the enthusiasm hidden under a blanket of nonchalance.
+
+Minute details.
+Things you wouldn’t notice unless you were purposefully observing.
+
+I think that’s where meaning is
+not in giant gestures,
+but in the near invisible moments
+where someone is simply, unintentionally, themselves.`
+}
+
 ];
