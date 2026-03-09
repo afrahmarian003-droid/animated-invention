@@ -189,6 +189,28 @@ I think that’s where meaning is
 not in giant gestures,
 but in the near invisible moments
 where someone is simply, unintentionally, themselves.`
-}
+},
+
+{
+    id: "making-a-difference",
+    title: "Making a difference - Glory",
+    written: "2026-03-09",
+    tags: ["love", "poem"],
+    body:'On this cold days,
+    love is the keys,
+     to open every door,
+    even when the situation is hard and difficult,
+    that could change a lot everyday,
+     we have to said thanks to have another,
+    opportunities to enjoy this life close,
+    to your relative persons,
+    and people around you,
+    if you don't see any color around,
+    you have to be the color to others be positive and helpful,
+    in everything that you do to others,
+    because it will come back to you,
+    so is better if it good think have to your life and your loves one.'
+    }
+
 
 ];
