@@ -5,7 +5,7 @@
 const posts = [
   {
     id: "the-years-that-went-missing",
-    title: "The Years That Went Missing - Marian Afrah",
+    title: "The Years That Went Missing - Marian",
     written: "2025-12-31",
     tags: ["reflection", "grief", "memory", "journal"],
     excerpt: "grief, memory loss, and years that my mind refused to archive.",
@@ -52,7 +52,7 @@ Even if I can only remember when reminded.`
 
   {
     id: "a-graveyard-of-stars",
-    title: "A Graveyard of Stars- Marian Afrah",
+    title: "A Graveyard of Stars- Marian",
     written: "2026-01-07",
     tags: ["reflection", "journal", "light-pollution"],
     excerpt: "light pollution, lost wonder, and the parts of ourselves we dim to fit in.",
@@ -107,7 +107,7 @@ And if we’re honest... neither did we.`
 
   {
     id: "moving-forward",
-    title: "Moving forward - Ian Barrington",
+    title: "Moving forward - Ian",
     written: "2026-02-05",
     tags: ["motivation", "poem", "progression"],
     excerpt: "Moving forward with strength, honesty, and purpose.",
@@ -165,7 +165,7 @@ por fin se lo encontró.`
   
  {
   id: "micro-moments-of-meaning",
-  title: "Micro Moments of Meaning - Marian Afrah",
+  title: "Micro Moments of Meaning - Marian",
   written: "2026-02-18",
   tags: ["reflection", "journal", "observation", "connection"],
   excerpt: "tiny, near-invisible moments where meaning silently lives.",
